@@ -32,5 +32,4 @@ Algunas direcciones corporativas especiales incluyen no-reply@notificaciones.sis
 **Conceptos adicionales:** Averiguar sobre **Lookahead Positivo `(?=...)`**
 - Investigar y explicar su uso y funcionamiento
 - Mostrar 3 ejemplos de su uso
-4. Mostrar código Python funcional con `re.findall()` o `re.search()`
 
