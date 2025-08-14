@@ -25,7 +25,7 @@ Algunas direcciones corporativas especiales incluyen no-reply@notificaciones.sis
 
 ---
 
-**Web Scrapping:** Hacer web scrapping para obtener algún texto grande donde puedas aplicar las expresiones del punto anterior y extraer todas las entidades y guardarlas en un dataframe. 
+**Web Scrapping:** Hacer web scrapping con Python para obtener algún texto grande donde puedas aplicar las expresiones del punto anterior y extraer todas las entidades usando el modulo `re` y guardarlas en un dataframe. 
 
 ---
 
