@@ -1,3 +1,5 @@
+# Proyecto: Extracción Automática de Acuerdos de Actas
+
 ## Objetivo
 Desarrollar un script en Python que procese minutas de reuniones en español (en formato PDF) para identificar párrafos que contengan **acuerdos o acciones**, y luego extraer de ellos:
 - **El responsable** de la acción.
