@@ -24,3 +24,5 @@ Desarrollar un sistema de análisis de sentimiento a nivel de aspectos que proce
   
 Dataset: https://drive.google.com/file/d/1NHyyALe8L-drfwTWeE_KK5bsHfzVF8jI/view?usp=sharing
 
+**Extra para el equipo de 3 personas:** Probar el mismo método, en un corpus en español que tenga las etiquetas de polaridad para ver cómo funciona en otro idioma y además, poder evaluar la tarea de análisis de sentimientos.
+
