@@ -21,3 +21,6 @@ Desarrollar un sistema de análisis de sentimiento a nivel de aspectos que proce
     - Funcionamiento del código.
     - Resultados del análisis (aspectos más mencionados y su sentimiento).
     - Limitaciones encontradas y posibles mejoras.
+  
+Dataset: https://drive.google.com/file/d/1NHyyALe8L-drfwTWeE_KK5bsHfzVF8jI/view?usp=sharing
+
