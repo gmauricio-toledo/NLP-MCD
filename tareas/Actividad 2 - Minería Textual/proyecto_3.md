@@ -40,3 +40,6 @@ Desarrollar un sistema que analice una colección de documentos para descubrir s
  - Resultados de la clasificación en documentos de prueba
  - Análisis de la efectividad del sistema con los documentos de prueba
  - Limitaciones del enfoque y posibles mejoras
+
+Dataset: https://drive.google.com/file/d/1JJesKC1iBsqMBtQyigoBNV8boUR_tJN0/view?usp=drive_link
+Para tener el texto completo de cada documento es necesario hacer web scrapping
