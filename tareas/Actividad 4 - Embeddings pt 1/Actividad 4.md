@@ -16,7 +16,7 @@
  
 ## 2. Modelado de Tópicos
 
-* Corpus: https://drive.google.com/file/d/1b0cmrHesxIXzZhxAEqRizdL8zOFXyK9V/view?usp=sharing
+* Corpus: https://github.com/gmauricio-toledo/NLP-MCD/blob/main/data/SO_posts.zip
 * Intrucciones:
  - Entrenar un modelo de ML con representaciones BOW/TFIDF
  - Entrenar un modelo de ML con embeddings de documentos promediando los vectores de word2vec
