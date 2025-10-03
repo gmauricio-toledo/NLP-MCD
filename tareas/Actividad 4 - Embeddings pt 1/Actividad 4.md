@@ -16,7 +16,7 @@
  
 ## 2. Modelado de Tópicos
 
-* Corpus: https://github.com/gmauricio-toledo/NLP-MCD/blob/main/data/SO_posts.zip
+* Corpus: https://drive.google.com/file/d/1b0cmrHesxIXzZhxAEqRizdL8zOFXyK9V/view?usp=sharing
 * Intrucciones:
  - Entrenar un modelo de ML con representaciones BOW/TFIDF
  - Entrenar un modelo de ML con embeddings de documentos promediando los vectores de word2vec
@@ -29,7 +29,7 @@
 
 ## 3. Information Retrieval
 
-* Corpus: https://drive.google.com/file/d/1tITienaHmncs00Fr8xAA807tu7MVlhx4/view?usp=sharing
+* Corpus: https://github.com/gmauricio-toledo/NLP-MCD/blob/main/data/SO_posts.zip
 * Instrucciones:
  - Implementar sistema de retrieval con representaciones TF-IDF
  - Implementar sistema de retrieval con embeddings de documentos promediando vectores de word2vec o fasttext
