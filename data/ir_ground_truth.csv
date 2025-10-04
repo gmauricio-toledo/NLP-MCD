@@ -1,0 +1,101 @@
+Query,Rank,DocIndex,Snippet
+python dataframe merge,1,31457,"<p>No: since Word uses a binary file format, svn cannot merge the files at all.</p>  <p>However, Word itself has a merge feature. You might try that i"
+python dataframe merge,2,48403,<p>In SQL Server 2008 you can use the MERGE statement</p> 
+python dataframe merge,3,15019,"<p>The best I could come up with is to produce a matrix of sums of each pair, and then merge the rows together, a-la merge sort.  I feel like I'm miss"
+python dataframe merge,4,3273,"<p>MERGE is one of the new features in SQL Server 2008, by the way.</p> "
+python dataframe merge,5,24971,"<h3>Usage</h3>  <p>Merge tracking is managed by the client and stored in a property (<a href=""http://subversion.tigris.org/merge-tracking/design.html"""
+python dataframe merge,6,9360,<p>I would consider that using python on a new project is completely dependent on what problem you are trying to solve with python.  If you want someo
+python dataframe merge,7,14391,<p>When merging two code branches in Team Foundation Server I get the following error: </p>  <blockquote>   <p>The given key was not present in the di
+python dataframe merge,8,2785,"<p>I'm in the process of refactoring some code which includes moving folders around, and I would like to regularly merge to keep things current. What "
+python dataframe merge,9,48835,"<p>In my experience, merge conflicts are rarely an issue when doing small and medium scale refactoring on agile projects.  Large refactoring efforts c"
+python dataframe merge,10,39018,<p>Python is considered (among Python programmers :) to be a great language for rapid prototyping. There's not a lot of extraneous syntax getting in t
+null pointer exception java,1,48149,<p>My rule of thumb is:</p>  <p>Use pointers if you want to do pointer arithmetic with them (e.g. incrementing the pointer address to step through an 
+null pointer exception java,2,40652,<p>Parameter efficency - passing a pointer (Int - 4 bytes) as opposed to copying a whole (arbitarily large) object.</p>  <p>Java classes are passed vi
+null pointer exception java,3,11719,<p>Comparison to NULL will be false every time.  You want to use IS NULL instead.</p>  <pre><code>x =  NULL      -- always false x &lt;&gt; NULL      
+null pointer exception java,4,31622,<p>That is actually a very nice feature in VC++ (and I believe other compilers) because it allows you to see unallocated memory for a pointer in the d
+null pointer exception java,5,34925,<p>What is a smart pointer and when should I use one?</p> 
+null pointer exception java,6,9190,<p>The accepted practice if to use the <em>IllegalArgumentException( String message )</em> to declare a parameter to be invalid and give as much detai
+null pointer exception java,7,34136,<p>In how many languages is Null not equal to anything not even Null?</p> 
+null pointer exception java,8,42481,"<p>Contrary to popular opinion, it is possible to have a reference that is NULL.</p>  <pre><code>int * p = NULL; int &amp; r = *p; r = 1;  // crash! ("
+null pointer exception java,9,46330,<p>You should pass a pointer if you are going to modify the value of the variable. Even though technically passing a reference or a pointer are the sa
+null pointer exception java,10,35698,"<p>You can make ruby work that way:</p>  <pre><code>class Null  def self.==(other);false;end end n=Null print ""Null equals nothing"" if n!=Null </code>"
+center a div with css,1,24867,<p>CSS text-align property should be declared on the parent element and not the element you are trying to center. IE uses text-align: center property 
+center a div with css,2,43226,"<p>Using this code :</p>  <pre><code>&lt;div class=""title""&gt;MyTitle&lt;/div&gt;&lt;div class=""subject""&gt;MySubject&lt;/div&gt;&lt;div class=""Summar"
+center a div with css,3,25635,"<p>This seems close to what you want:</p>  <p><div class=""snippet"" data-lang=""js"" data-hide=""false"" data-console=""true"" data-babel=""false""> <div clas"
+center a div with css,4,16385,"<p>For a div, you can add in the cSS</p>  <pre class=""lang-css prettyprint-override""><code>overflow: auto </code></pre>  <p>For example,</p>  <pre> &l"
+center a div with css,5,25682,"<p>You may put an inner div in the container that is enough wide to hold all the floated divs.</p>  <p><div class=""snippet"" data-lang=""js"" data-hide="""
+center a div with css,6,33579,"<p>How to center text over an image in a table cell using javascript, css, and/or html?</p>  <p>I have an HTML table containing images - all the same "
+center a div with css,7,15378,"<p>Given a relatively simple CSS:</p>  <p><div class=""snippet"" data-lang=""js"" data-hide=""false"" data-console=""true"" data-babel=""false""> <div class=""s"
+center a div with css,8,32249,"<p>Wrap the map in a DIV, give that DIV a z-index of 1. Wrap your drop-down in a DIV and give it a higher value.</p> "
+center a div with css,9,19703,"<p>@Jason, yep, <code>&lt;center&gt;</code> works. Good times. I'll propose the following, though:</p>  <p><div class=""snippet"" data-lang=""js"" data-hi"
+center a div with css,10,44020,"<p>Let's say I want a way to display just the the center 50x50px of an image that's 250x250px in HTML. How can I do that. Also, is there a way to do t"
+sql join multiple tables,1,9586,<p>That syntax has its uses though ... there are times when you find you need to join two tables on more than one field</p> 
+sql join multiple tables,2,28484,"<p>The first answer you gave uses what is known as ANSI join syntax, the other is valid and will work in any relational database.</p>  <p>I agree with"
+sql join multiple tables,3,19318,"<p>It means outer join, a simple = means inner join.</p>  <pre><code>*= is LEFT JOIN and =* is RIGHT JOIN. </code></pre>  <p>(or vice versa, I keep fo"
+sql join multiple tables,4,34462,"<p>You could add the DB2 database as a linked server in sql server and just join the two tables in a view/sproc in sql. I've done it, it's not hard an"
+sql join multiple tables,5,2968,<p>Personally I prefer the join syntax as its makes it clearer that the tables are joined and how they are joined. Try compare larger SQL queries wher
+sql join multiple tables,6,41012,<p>Example code might help :) Are you trying to return two tables from the stored procedure; I don't think ADO 2.6 can handle multiple tables being re
+sql join multiple tables,7,17690,"<p>You want a left join, instead of an inner join, as that allows records to not exist.</p> "
+sql join multiple tables,8,47368,"<p>Is there a quick way to join paths like the Join-Path function in Powershell?  For example, I have two parts of a path ""C:\foo"" and a subdirectory "
+sql join multiple tables,9,46854,"<p>Well, there are only so many ways to aggregate information from multiple tables.  You can join, like you mentioned in your example, or you can run "
+sql join multiple tables,10,6026,<p>In my experience with LINQ to SQL and LINQ to Entities a DataContext is synonymous to a connection to the database. So if you were to use multiple 
+c# async await example,1,25728,<p>You can still use Page.IsPostback during an async call.</p> 
+c# async await example,2,35064,"<p>In an Async method, Exceptions aren't thrown, but rather passed through to the callback in the EventArgs object.</p> "
+c# async await example,3,42767,"<p>My best guess is that the UpdatePanel is not able to write out the custom ""async"" property to the postback request properly. This is likely due to "
+c# async await example,4,44695,<p>Bear in mind that there might be reasons why your application is not as single-threaded as you think.  Async I/O in .NET may well call-back on a po
+c# async await example,5,48104,"<p>It is possible. Once you start a new thread asynchronously from page, page request will proceed and send the page back to the user. The async threa"
+c# async await example,6,42033,"<p>I've not really had to face this issue too much yet myself, so please keep that in mind.</p>  <p>Is there not anyway you can run the process async "
+c# async await example,7,25142,<p>I'm looking for a way to check within <code>pageLoad()</code> if this method is raised during load event because of a postback/async postback or be
+c# async await example,8,14588,<p>The use of threads makes you think more about the way your application needs threading and can in the long run make it easier to improve / control 
+c# async await example,9,5738,<p>The ScriptManager.RegisterStartupScript allows a script to run on startup inside of an update panel.  if you use the old ClientScript.RegisterStart
+c# async await example,10,7042,"<p>Say I have a site on <a href=""http://example.com"" rel=""noreferrer"">http://example.com</a>. I would really like allowing bots to see the home page, "
+javascript callback function,1,18369,"<p>How do you tell if a function in JavaScript is defined?</p>  <p>I want to do something like this</p>  <pre><code>function something_cool(text, call"
+javascript callback function,2,18628,"<pre><code>function something_cool(text, callback){     alert(text);     if(typeof(callback)=='function'){          callback();      }; } </code></pre"
+javascript callback function,3,18466,"<pre><code>typeof callback === ""function"" </code></pre> "
+javascript callback function,4,18515,"<pre><code>typeof(callback) == ""function"" </code></pre> "
+javascript callback function,5,38450,<pre><code>if ('function' === typeof callback) ... </code></pre> 
+javascript callback function,6,39393,"<p>Implementation of a callback is done like so</p>  <pre><code>// This function uses a callback function.  function doIt($callback)  {      $data = """
+javascript callback function,7,34983,"<p>How do you feel about using the <a href=""http://en.wikipedia.org/wiki/Observer_Pattern"" rel=""nofollow noreferrer"">Observer</a> pattern? If not, you"
+javascript callback function,8,18467,<p>Try:</p>  <pre><code>if (typeof(callback) == 'function') </code></pre> 
+javascript callback function,9,47475,"<p>According to <a href=""http://docs.jquery.com/Ajax/jQuery.get"" rel=""nofollow noreferrer"">the docs</a>, jQuery.get's arguments are <code>url, data, c"
+javascript callback function,10,38420,"<p>You could use JSONP. This is where you specify a callback with the request, the response from your ajax request gets wrapped with the callback func"
+install package using pip,1,33817,"<p>VeriSign (ick)'s SeatBelt plugin: <a href=""https://pip.verisignlabs.com/seatbelt.do"" rel=""noreferrer"">https://pip.verisignlabs.com/seatbelt.do</a><"
+install package using pip,2,35083,<p>You're missing your C library development headers. You should install a package that has them. These are necessary to install this module because i
+install package using pip,3,36043,"<p>Is there a way to prevent packages in Delphi to implicitly import units that are not listed in the ""Contains"" list? I'm looking for a compiler dire"
+install package using pip,4,12869,"<p>Installing the <a href=""http://www.microsoft.com/downloads/details.aspx?familyid=30402623-93ca-479a-867c-04dc45164f5b"" rel=""nofollow noreferrer"">Vi"
+install package using pip,5,30879,"<p>Having one .MSI package launch another .MSI package from ""within"" itself is called a <em>nested install</em>, and it's <a href=""http://blogs.msdn.c"
+install package using pip,6,10093,"<p>That depends on what you mean by <em>ship</em>? If you download and burn a CD or DVD, it will almost certainly be available, but not necessarily in"
+install package using pip,7,34883,"<p>I have an SSIS Package that sets some variable data from a SQL Server Package Configuration Table. (Selecting the ""Specify configuration setings di"
+install package using pip,8,31095,"<p>We want to keep our package configs in a database table, we know it gets backuped with our other data and we know where to find it. Just a preferen"
+install package using pip,9,28205,"<p>I've had a little search and I was wondering if there is back compatibility for the .NET framework.</p>  <p>The real question is, if there's a prog"
+install package using pip,10,14384,<p>The only way to change the instance name is to re-install - uninstall and install as default instance. </p> 
+git merge conflict resolve,1,31457,"<p>No: since Word uses a binary file format, svn cannot merge the files at all.</p>  <p>However, Word itself has a merge feature. You might try that i"
+git merge conflict resolve,2,42038,"<p>In this particular use case, you don't really want to abort the merge, just resolve the conflict in a particular way.</p>  <p>There is no particula"
+git merge conflict resolve,3,38904,<p>I used <code>git pull</code> and had a merge conflict:</p> <pre><code>unmerged:   some_file.txt  You are in the middle of a conflicted merge. </cod
+git merge conflict resolve,4,13226,"<p>This is very similar to a question I asked about <a href=""https://stackoverflow.com/questions/53569/how-to-get-the-changes-on-a-branch-in-git"">how "
+git merge conflict resolve,5,23618,"<p>You could also look at <a href=""http://git-scm.com/docs/git-svn"" rel=""noreferrer"">git-svn</a>, which is essentially a git front-end to subversion.<"
+git merge conflict resolve,6,36161,<p>What is the best way to get a log of commits on a branch since the time it was branched from the current branch? My solution so far is:</p>  <pre><
+git merge conflict resolve,7,3534,"<blockquote>   <p>@superjoe30</p>      <p>What about using source control on your own computer, if you're the sole programmer? Is this good practice? "
+git merge conflict resolve,8,5516,"<p>Git also makes branching and merging really easy. Subversion 1.5 just added merge tracking, but Git is still better. With Git branching is very fas"
+git merge conflict resolve,9,15110,"<p><a href=""https://stackoverflow.com/questions/61002/how-can-i-generate-a-git-diff-of-whats-changed-since-the-last-time-i-pulled#61004"">Greg's</a> wa"
+git merge conflict resolve,10,39915,"<p>I use either a local darcs repo, or just merge the changes in gradually. With merging (opendiff opens FileMerge, a merge program that comes with Xc"
+create REST API with node.js,1,32926,<p>Is it possible to delete a middle node in the single linked list when the only information available we have is the pointer to the node to be delet
+create REST API with node.js,2,6471,"<p>I don't know JS, but would it be possible to modify the links inside the page with JS? If someone goes to the unmodified link, they're not using JS"
+create REST API with node.js,3,29666,"<p>It can be done but only if the return value when the node does exist is <em>the string value of the node, not the node itself</em>. The XPath</p>  "
+create REST API with node.js,4,38306,"<p>@jelovirt</p>  <p>So if I understand this correctly, we concatenate the default answer and the value of the node, and then take the correct subset "
+create REST API with node.js,5,15884,"<p>This should do the trick - a quickie module that uses the <a href=""http://api.drupal.org/api/function/hook_nodeapi/6"" rel=""nofollow noreferrer"">hoo"
+create REST API with node.js,6,34483,"<p>It's definitely more a quiz rather than a real problem. However, if we are allowed to make some assumption, it can be solved in O(1) time. To do it"
+create REST API with node.js,7,34260,<p>I'd advise against using <code>hook_nodeapi</code> for that. Adding CSS and Javascript is related to layout so <code>hook_nodeapi</code> is not the
+create REST API with node.js,8,31042,<p>Is there a fast and clean way of returning a JSON hash back from any node in a Ruby on Rails' acts_as_nested_set without using recursion?</p>  <p>H
+create REST API with node.js,9,5243,<p>You should be able to use the .RemoveNode method of the node or the .RemoveChild method of the parent node.</p> 
+create REST API with node.js,10,11648,"<p>In Flex, I have an xml document such as the following:</p>  <pre><code>var xml:XML = &lt;root&gt;&lt;node&gt;value1&lt;/node&gt;&lt;node&gt;value2&"
+regex extract email address,1,45262,"<p>This isn't an IIS failure. The SMTP server receiving the message is looking for a valid email address, and when it doesn't find one, sends an email"
+regex extract email address,2,24078,<p><strong>EMAIL ADDRESS</strong></p>  <p>Rational</p>  <ol> <li>Users don't change emails very often</li> <li>Removes the step of asking for username
+regex extract email address,3,37885,"<p>Consider Regex.Replace(your_string, regex, """") - that's what I use.</p> "
+regex extract email address,4,23895,"<p>Looking at this it looks like you've we need two quick checks as detailed:</p>  <pre><code>&lt;?php  function valid_email($email) {      // First, "
+regex extract email address,5,7530,<p>My organization has a form to allow users to update their email address with us. It's suggested that we have two input boxes for email: the second 
+regex extract email address,6,4703,"<p>I'd like to check if the user input is an email address in JavaScript, before sending it to a server or attempting to send an email to it, to preve"
+regex extract email address,7,7833,<p>I've seen plenty of people type their email address wrong and I've also looked through user databases full of invalid email address.</p>  <p>The wa
+regex extract email address,8,6054,"<p>To email the output to a different email address just add the line </p>  <pre><code>MAILTO=""user@example.com"" </code></pre>  <p>To the crontab befo"
+regex extract email address,9,7825,"<p>I use it all the time when someone sends me a list of patient visit numbers in a column (say 100-200) and I need them in a '0000000444','0000000044"
+regex extract email address,10,32277,<p>I assume you are making this available via a website. So you could just ask people to give you their email address in order to get the download lin
