@@ -35,7 +35,9 @@
  - Implementar sistema de retrieval con embeddings de documentos promediando vectores de word2vec o fasttext
  - Implementar sistema de retrieval con embeddings de [doc2vec](https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html)
  - Para encontrar los más similares al query pueden usar la clase [NearestNeighbors](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NearestNeighbors.html)
-* Métricas de evaluación: Evaluación Humana y Top@5
+* Métricas de evaluación:
+ - Evaluación Humana: Hacer algunas consultas y juzgar cuál está encontrando documentos más relevantes.
+ - Precision@10: Usar el [ground truth](https://github.com/gmauricio-toledo/NLP-MCD/blob/main/data/ir_ground_truth.csv) dado, para la métrica, pueden usar el modulo ranx de python o implementarla ustedes manualmente.
 * Equipos:
  - Sebastian y Feliciano
  - Angel, Federico y Jesús
