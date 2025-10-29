@@ -19,7 +19,7 @@ Implementar un sistema básico de recuperación de información (IR) **sin frame
   - Librerías: `spacy`, `sentence-transformers`, `scikit-learn`, `numpy`, `pandas`.
 
 - **Documentos:**
-  - Se proporcionan **3 documentos sobre un tema específico
+  - Se proporcionan 3 documentos sobre un tema específico
 
 ---
 
@@ -30,10 +30,10 @@ Implementar un sistema básico de recuperación de información (IR) **sin frame
 - **Tareas:**
   1. Implementar una función `chunk_document(text)` que:
      - Reciba un texto como entrada.
-     - Use `spacy` para dividirlo en oraciones.
+     - Lo divida en oraciones.
      - Filtre oraciones con menos de un umbral de caracteres.
      - Devuelva una lista de oraciones.
-  2. Aplicar la función a cada documento y almacenar las oraciones en una lista de listas:
+  2. Aplicar la función a cada documento y almacenar las oraciones en una lista de listas
   3. Imprimir el número de oraciones por documento para verificación.
 
 ---
