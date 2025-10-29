@@ -21,4 +21,5 @@ Puntos importantes a considerar:
     - roberta-base (variante optimizada de BERT),
     - xlm-roberta-base (para contextos multilinguales avanzados),
     - bert-base-spanish-wwm-uncased (específico para español).
- En la presentación mencionen qué variante eligieron, incluyan una descripción breve.
+
+En la presentación mencionen qué variante eligieron, incluyan una descripción breve.
