@@ -12,13 +12,14 @@ Cada equipo partirá de una combinación de distintos componentes y podrán mejo
 
 ## Equipos
 
-Pareja,Chunking,Embeddings,Vector DB,Retrieval & Reranking,Generation
-Fernando-Manuel,CharacterTextSplitter,all-MiniLM-L6-v2,ChromaDB,ContextualCompressionRetriever,LLM
-Sebastian-Feliciano,RecursiveCharacterTextSplitter (Alto overlap),BAAI/bge-small-en,FAISS,Solo Similitud,LLM
-Jennifer y Kevin,CharacterTextSplitter,all-MiniLM-L6-v2,Milvus Lite,Similitud + Cohere Rerank (vía HF),LLM
-Angel-Federico-Jesús,SemanticChunker,BAAI/bge-large-en,LanceDB,EnsembleRetriever (BM25 + Similitud),LLM
-Arian-Catherine,RecursiveCharacterTextSplitter (Bajo overlap),BAAI/bge-large-en,ChromaDB,MultiQueryRetriever,LLM
-Eddel-Gerardo,SemanticChunker,BAAI/bge-large-en,Milvus Lite,ContextualCompressionRetriever,LLM
+| Pareja | Chunking | Embeddings | Vector DB | Retrieval & Reranking | Generation |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Fernando-Manuel | CharacterTextSplitter | all-MiniLM-L6-v2 | ChromaDB | ContextualCompressionRetriever | LLM |
+| Sebastian-Feliciano | RecursiveCharacterTextSplitter (Alto overlap) | BAAI/bge-small-en | FAISS | Solo Similitud | LLM |
+| Jennifer y Kevin | CharacterTextSplitter | all-MiniLM-L6-v2 | Milvus Lite | ContextualCompressionRetriever (Rerank HF) | LLM |
+| Angel-Federico-Jesús | SemanticChunker | BAAI/bge-large-en | LanceDB | EnsembleRetriever (BM25 + Similitud) | LLM |
+| Arian-Catherine | RecursiveCharacterTextSplitter (Bajo overlap) | BAAI/bge-large-en | ChromaDB | MultiQueryRetriever | LLM |
+| Eddel-Gerardo | RecursiveCharacterTextSplitter (Alto overlap) | all-MiniLM-L6-v2 | Milvus Lite | EnsembleRetriever (BM25 + Similitud) | LLM |
 
 
 
