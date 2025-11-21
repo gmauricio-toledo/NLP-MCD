@@ -16,9 +16,9 @@ Cada equipo partirá de una combinación de distintos componentes y podrán mejo
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Fernando-Manuel | CharacterTextSplitter | all-MiniLM-L6-v2 | ChromaDB | ContextualCompressionRetriever | LLM |
 | Sebastian-Feliciano | RecursiveCharacterTextSplitter (Alto overlap) | BAAI/bge-small-en | FAISS | Solo Similitud | LLM |
-| Jennifer y Kevin | CharacterTextSplitter | all-MiniLM-L6-v2 | Milvus Lite | ContextualCompressionRetriever (Rerank HF) | LLM |
+| Jennifer y Kevin | CharacterTextSplitter | Alibaba-NLP/gte-large-en-v1.5 | Milvus Lite | ContextualCompressionRetriever (Rerank HF) | LLM |
 | Angel-Federico-Jesús | SemanticChunker | BAAI/bge-large-en | LanceDB | EnsembleRetriever (BM25 + Similitud) | LLM |
-| Arian-Catherine | RecursiveCharacterTextSplitter (Bajo overlap) | BAAI/bge-large-en | ChromaDB | MultiQueryRetriever | LLM |
+| Arian-Catherine | RecursiveCharacterTextSplitter (Bajo overlap) | intfloat/e5-large-v2 | ChromaDB | MultiQueryRetriever | LLM |
 | Eddel-Gerardo | RecursiveCharacterTextSplitter (Alto overlap) | all-MiniLM-L6-v2 | Milvus Lite | EnsembleRetriever (BM25 + Similitud) | LLM |
 
 
